@@ -1,4 +1,4 @@
-loacls {
+locals {
     tags = {
         Name = kul
     }
