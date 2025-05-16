@@ -1,0 +1,5 @@
+loacls {
+    tags = {
+        Name = kul
+    }
+}
